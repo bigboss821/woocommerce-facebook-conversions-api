@@ -43,7 +43,7 @@
 
 | Orders List with CAPI Status | Order Preview with Manual Send & Debug |
 |-----------------------------|----------------------------------------|
-| ![Orders List](3XiV5oYoMv.png) | ![Order Preview](screenshots/order-preview.png) |
+| ![Orders List](3XiV5oYoMv.png) | ![Order Preview](chrome_lwnx0TovYK.png) |
 
 > _Replace the above image links with your actual screenshots if available._
 
