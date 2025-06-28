@@ -76,4 +76,53 @@ For issues, feature requests, or questions, please [open an issue](https://githu
 3. **ইভেন্ট অনুপস্থিত**
    - সঠিক WooCommerce hooks কাজ করছে কিনা দেখুন
    - ইভেন্ট ফিল্টার হচ্ছে কিনা যাচাই করুন
-   - Facebook Pixel কনফিগারেশন যাচাই করুন 
+   - Facebook Pixel কনফিগারেশন যাচাই করুন
+  
+# 📸 Screenshots Guide
+
+Welcome to the **Screenshots** folder for the WooCommerce Facebook Conversions API plugin!
+
+---
+
+## 🗂️ What to Include
+
+Add clear, high-quality screenshots that showcase the plugin in action. Recommended screenshots:
+
+- 🛒 **Orders List:** Showing the CAPI status column
+- 👁️ **Order Preview Popup:** With the manual send button and debug info
+- ⚙️ **Plugin Settings Page:** All available options
+- ✅ **Success/Error Messages:** (if relevant)
+
+---
+
+## 📝 Naming Convention
+
+- Use short, descriptive, lowercase file names:
+  - `orders-list.png`
+  - `order-preview.png`
+  - `settings-page.png`
+  - `success-message.png`
+
+---
+
+## 🖼️ How to Update the Main README
+
+1. Place your screenshot files in this `screenshots/` folder.
+2. In the main `README.md`, update the image links:
+   ```markdown
+   ![Orders List](https://raw.githubusercontent.com/bigboss821/woocommerce-facebook-conversions-api/refs/heads/main/chrome_lwnx0TovYK.png)
+   ```
+3. Commit both the images and the updated README.
+
+---
+
+## 🤝 Contribution Tips
+
+- Only use real plugin UI (no mockups or unrelated images).
+- Crop screenshots to focus on the relevant area.
+- Update screenshots if you change the UI or add new features.
+- Keep file sizes reasonable for fast loading.
+
+---
+
+> Thank you for helping make this project more user-friendly and visually clear! 
