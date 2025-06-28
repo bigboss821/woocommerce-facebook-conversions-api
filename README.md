@@ -1,5 +1,5 @@
 
-# WooCommerce Facebook Conversions API
+# WooCommerce Facebook Conversions API Server-Side Tracking Made Very Easy For Everyone
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-Compatible-brightgreen.svg)](https://woocommerce.com/)
