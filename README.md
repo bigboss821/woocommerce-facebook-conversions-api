@@ -35,7 +35,7 @@
 1. **Download** the latest release from [GitHub Releases](https://github.com/bigboss821/woocommerce-facebook-conversions-api/releases).
 2. **Upload** the ZIP file via WordPress Admin > Plugins > Add New > Upload.
 3. **Activate** the plugin.
-4. Go to **WooCommerce > Facebook CAPI** to configure your settings.
+4. Go to **Facebook CAPI** to configure your settings.
 
 ---
 
