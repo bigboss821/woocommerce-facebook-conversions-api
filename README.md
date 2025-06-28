@@ -15,6 +15,22 @@
 
 ---
 
+## 📊 Comparative Analysis
+
+| Feature / Plugin Name | `woocommerce-facebook-conversions-api` (GitHub) | Facebook for WooCommerce (Official) | PixelYourSite | WP Facebook Pixel | CTX Feed + Pixel |
+|-----------------------|-----------------------------------------------|--------------------------------------|----------------|--------------------|------------------|
+| ✅ **CAPI Support**                | ✅ Yes  | ✅ Yes  | ✅ Yes (Pro) | ✅ Yes | ✅ Yes |
+| 🔍 **Event Tracking**             | ✅ Basic Events | ✅ Full Events | ✅ Full Events | ✅ Basic | ❌ Limited |
+| ⚙️ **Customizable**               | ✅ Fully Open | ❌ Limited | ❌ Limited | ❌ No | ❌ No |
+| 👨‍💻 **Developer-Friendly**        | ✅ Yes  | ❌ No  | 🔸 Partial | ❌ No | ❌ No |
+| 🛠️ **Setup Complexity**           | 🟢 Very Easy | 🔺 Moderate | 🔺 Moderate | 🟢 Easy | 🔺 Moderate |
+| 🛍️ **Catalog Sync Support**       | ❌ No   | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
+| 💰 **Free to Use**                | ✅ Yes  | ✅ Yes | 🔸 Partially Free | ✅ Yes | 🔸 Partially Free |
+| ⚡ **Performance**                | 🟢 Lightweight | 🔺 Heavy | 🔺 Medium | 🟢 Lightweight | 🔺 Medium |
+| 🧪 **Test Mode / Debug Tools**    | ✅ Yes  | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
+
+---
+
 ## 🚀 Features
 
 - **Server-Side Event Tracking:** Send all major WooCommerce events (Purchase, AddToCart, InitiateCheckout, etc.) directly to Facebook CAPI.
@@ -106,6 +122,22 @@ Add clear, high-quality screenshots that showcase the plugin in action. Recommen
 - 👁️ **Order Preview Popup:** With the manual send button and debug info
 - ⚙️ **Plugin Settings Page:** All available options
 - ✅ **Success/Error Messages:** (if relevant)
+
+---
+
+
+## 🔍 Supported Events
+
+| Event Name            | Description                          |
+|------------------------|--------------------------------------|
+| `ViewContent`          | When a product page is viewed        |
+| `AddToCart`            | When a product is added to cart      |
+| `InitiateCheckout`     | When checkout process starts         |
+| `AddPaymentInfo`       | When payment info is added           |
+| `Purchase`             | When an order is placed              |
+| `Search`               | When a search is performed           |
+| `CompleteRegistration` | When a user registers an account     |
+| `Contact`              | When contact form/page is triggered  |
 
 ---
 
