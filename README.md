@@ -1,5 +1,3 @@
-# woocommerce-facebook-conversions-api
-woocommerce-facebook-conversions-api
 
 # WooCommerce Facebook Conversions API
 
@@ -45,7 +43,7 @@ woocommerce-facebook-conversions-api
 
 | Orders List with CAPI Status | Order Preview with Manual Send & Debug |
 |-----------------------------|----------------------------------------|
-| ![Orders List](screenshots/orders-list.png) | ![Order Preview](screenshots/order-preview.png) |
+| ![Orders List](3XiV5oYoMv.png) | ![Order Preview](screenshots/order-preview.png) |
 
 > _Replace the above image links with your actual screenshots if available._
 
